@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🌸 Software Development Student <br>📘 Learning Java, HTML,CSS, JAVASCRIPT<br> Web Technologies 💻<br>Exploring AI and practical ML applications
 
 
